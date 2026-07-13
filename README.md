@@ -110,22 +110,13 @@
 <br>
 
 <div align="center">
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=dashingzombie&theme=transparent&show_icons=true&rank_icon=github&locale=en"
-    alt="Dev Mehrotra's GitHub statistics"
-  />
+
   <img
     width="390"
     src="https://github-readme-streak-stats.herokuapp.com/?user=dashingzombie&theme=transparent&border_radius=10&locale=en"
     alt="Dev Mehrotra's GitHub contribution streak"
   />
-  <br>
-  <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dashingzombie&theme=transparent&layout=compact&langs_count=8&border_radius=10&locale=en"
-    alt="Dev Mehrotra's most frequently used languages"
-  />
+
 </div>
 
 ---
