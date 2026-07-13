@@ -1,7 +1,7 @@
 <div align="center">
   <p>Visitor count</p>
   <img
-    src="https://profile-counter.deno.dev/YOUR_GITHUB_USERNAME/count.svg"
+    src="https://profile-counter.deno.dev/dashingzombie/count.svg"
     alt="Profile visitor count"
   />
 </div>
@@ -112,18 +112,18 @@
 <div align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&show_icons=true&rank_icon=github&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=dashingzombie&theme=transparent&show_icons=true&rank_icon=github&locale=en"
     alt="Dev Mehrotra's GitHub statistics"
   />
   <img
     width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&border_radius=10&locale=en"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dashingzombie&theme=transparent&border_radius=10&locale=en"
     alt="Dev Mehrotra's GitHub contribution streak"
   />
   <br>
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&theme=transparent&layout=compact&langs_count=8&border_radius=10&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dashingzombie&theme=transparent&layout=compact&langs_count=8&border_radius=10&locale=en"
     alt="Dev Mehrotra's most frequently used languages"
   />
 </div>
@@ -136,15 +136,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/dashingzombie/dashingzombie/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/dashingzombie/dashingzombie/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub contribution animation"
-      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/dashingzombie/dashingzombie/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
